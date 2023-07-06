@@ -1,0 +1,9 @@
+django~=3.2.7
+djangorestframework~=3.12.4
+django-rest-passwordreset
+celery~=5.1.2
+pyyaml~=5.4.1
+requests~=2.26.0
+django-allauth
+ujson
+python-dotenv
